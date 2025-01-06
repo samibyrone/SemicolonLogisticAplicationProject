@@ -1,6 +1,6 @@
-package com.semicolon.africa.data.repositories;
+package com.semicolon.africa.SemicolonLogisticsApplication.data.repositories;
 
-import com.semicolon.africa.data.model.TrackingLog;
+import com.semicolon.africa.SemicolonLogisticsApplication.data.model.TrackingLog;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

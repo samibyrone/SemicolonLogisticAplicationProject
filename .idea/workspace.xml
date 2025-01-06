@@ -4,18 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2968af85-43fb-44db-9b66-8c366aad57b8" name="Changes" comment="" />
+    <list default="true" id="2968af85-43fb-44db-9b66-8c366aad57b8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/LogisticsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/data/model/Packages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/data/model/Packages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/data/model/Receiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/data/model/Receiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/data/model/Sender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/data/model/Sender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/data/model/TrackingLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/data/model/TrackingLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/data/repositories/PackageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/data/repositories/PackageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/data/repositories/ReceiverRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/data/repositories/ReceiverRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/data/repositories/SenderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/data/repositories/SenderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/data/repositories/TrackingLogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/data/repositories/TrackingLogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/services/PackageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/services/PackageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/services/PackageServiceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/services/PackageServiceImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/services/ReceiverService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/services/ReceiverService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/services/ReceiverServiceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/services/ReceiverServiceImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/services/SenderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/services/SenderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/services/SenderServiceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/services/SenderServiceImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/services/TrackingLogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/services/TrackingLogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/services/TrackingLogServiceImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/services/TrackingLogServiceImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/utils/Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/utils/Mapper.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2r8dI9TH0KIvT6qcanPKyp7xpbq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -25,13 +52,38 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "Spring Boot.LogisticsApplication.executor": "Run",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/DELL USER/IdeaProjects/SemicolonLogisticsApplicationProject/src/main/java/com/semicolon/africa/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="LogisticsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SemicolonLogisticsApplicationProject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.semicolon.africa.SemicolonLogisticsApplication.LogisticsApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.semicolon.africa.SemicolonLogisticsApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.LogisticsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,6 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735944557221</updated>
       <workItem from="1735944558342" duration="56000" />
+      <workItem from="1736106170145" duration="8560000" />
     </task>
     <servers />
   </component>
@@ -59,7 +112,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/semicolon/africa/Main.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/semicolon/africa/SemicolonLogisticsApplication/LogisticsApplication.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

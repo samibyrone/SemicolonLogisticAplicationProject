@@ -1,7 +1,8 @@
-package com.semicolon.africa.data.model;
+package com.semicolon.africa.SemicolonLogisticsApplication.data.model;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.DBRef;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.math.BigDecimal;
@@ -16,11 +17,14 @@ public class Packages {
 
     @Id
     private String id;
+    @DBRef
     private Receiver receiver;
+    @DBRef
     private Sender sender;
     private String description;
     private int quantity;
     private BigDecimal deliveryFee;
     private LocalDateTime dateCreated;
+    @DBRef
     List<TrackingLog> trackingLogs = new ArrayList<>();
 }

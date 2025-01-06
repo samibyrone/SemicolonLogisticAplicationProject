@@ -1,4 +1,4 @@
-package com.semicolon.africa.services;
+package com.semicolon.africa.SemicolonLogisticsApplication.services;
 
 import org.springframework.stereotype.Service;
 
